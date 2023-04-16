@@ -1,2 +1,2 @@
 # jetpackComposeBasicSignup
-Simple Login and signup screen in jetpack compos Android.
+Simple Login and signup screen in jetpack compose Android.
